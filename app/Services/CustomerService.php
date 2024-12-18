@@ -28,5 +28,3 @@ class CustomerService extends BaseStripeService
         ]);
     }
 }
-
-///hotfix
