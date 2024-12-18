@@ -30,3 +30,4 @@ class CustomerService extends BaseStripeService
 }
 
 /// feature 1
+/// feature 2
