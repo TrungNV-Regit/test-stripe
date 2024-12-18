@@ -37,3 +37,5 @@ class CustomerService extends BaseStripeService
 /// feature 3.3
 /// feature 4.1
 /// feature 4.2
+/// feature 5.1
+/// feature 5.2
