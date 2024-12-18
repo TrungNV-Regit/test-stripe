@@ -39,3 +39,5 @@ class CustomerService extends BaseStripeService
 /// hotfix2
 /// feature 4.1
 /// feature 4.2
+/// feature 5.1
+/// feature 5.2
